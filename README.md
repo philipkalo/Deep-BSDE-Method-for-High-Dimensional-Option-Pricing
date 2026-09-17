@@ -1,0 +1,2 @@
+# Deep-BSDE-Method-for-High-Dimensional-Option-Pricing
+A neural-network (Deep BSDE) solver for high-dimensional option pricing. Shows that dimensionality isn't the real obstacle — Monte Carlo already beats it — but nonlinearity is: prices differing-rates options at d=100, verified by comparison bounds and an independent multilevel-Picard estimator, and maps where the method's accuracy breaks down.
